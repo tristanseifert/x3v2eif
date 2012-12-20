@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+*.eif
+output
+x3v2eif

@@ -19,3 +19,5 @@
 *.eif
 output
 x3v2eif
+
+.DS_Store
